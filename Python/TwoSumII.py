@@ -31,4 +31,3 @@ class Solution:
             else:
                 fast -= 1
 
-        print("test")
