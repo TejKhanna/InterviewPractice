@@ -18,3 +18,4 @@ class Solution:
         for ch in s + t:
             code ^= ord(ch)
         return chr(code)
+        
