@@ -18,3 +18,5 @@ class Solution:
                 nums.pop(i)
                 size -= 1
             else: i += 1
+
+print("test")
